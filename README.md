@@ -1,6 +1,6 @@
 
 ```
-#!/usr/bin/env Rstudio
+#!/usr/bin/env Rscript
 
 me <- "Greetings, Grade & Master"
 if(me == "Greetings, Grade & Master"){
