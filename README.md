@@ -1,5 +1,7 @@
 
 ```
+#!/usr/bin/env Rstudio
+
 me <- "Greetings, Grade & Master"
 if(me == "Greetings, Grade & Master"){
   print('Hello GitHub world, I am Juan Carlos, and i like programming in R and Biology')
