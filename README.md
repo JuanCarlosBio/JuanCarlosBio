@@ -2,9 +2,9 @@
 ```
 #!/usr/bin/env bash
 
-me="Greetings"
+me="Greetings_Degree_Master"
 
-if [ $me == "Greetings" ]
+if [ $me == "Greetings_Degree_Master" ]
 then
         echo "Hello GitHub world, I am Juan Carlos, and I like programming in R and biology"
         echo "Graduate in Biology University of La Laguna, Tenerife 2019-2022 (ULL)"
