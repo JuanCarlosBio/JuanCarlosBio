@@ -16,8 +16,12 @@ fi
 
 # Output
 
+---
+
 ```
 Hello GitHub world, I am Juan Carlos, and I like programming in R and biology
 Graduate in Biology University of La Laguna, Tenerife 2019-2022 (ULL)
 Currently doing a Master Degree in Bioinformatics Valencia International University (VIU)
 ```
+
+---
