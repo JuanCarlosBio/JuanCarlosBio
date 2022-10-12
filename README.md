@@ -1,21 +1,23 @@
+# Input
+```
+#!/usr/bin/env bash
+
+me="Greetings"
+
+if [ $me == "Greetings" ]
+then
+        echo "Hello GitHub world, I am Juan Carlos, and I like programming in R and biology"
+        echo "Graduate in Biology University of La Laguna, Tenerife 2019-2022 (ULL)"
+        echo "Currently doing a Master Degree in Bioinformatics Valencia International University (VIU)"
+else
+        echo "Impossible, perhaps the archives are incomplete"
+fi
+```
+
+# Output
 
 ```
-#!/usr/bin/env Rscript
-
-me <- "Greetings, Grade & Master"
-if(me == "Greetings, Grade & Master"){
-  print('Hello GitHub world, I am Juan Carlos, and i like programming in R and Biology')
-  print('Graduate in Biology ULL')
-  print('Currently doing a Master Degree in Bioinformatics VIU')
-} else{
-  print('Impossible, perhaps the archives are incomplete')
-}
-```
-
-output
-
-```
-[1] "Hello GitHub world, I am Juan Carlos, and i like programming in R and Biology"
-[1] "Graduate in Biology ULL"
-[1] "Currently doing a Master Degree in Bioinformatics VIU"
+Hello GitHub world, I am Juan Carlos, and I like programming in R and biology
+Graduate in Biology University of La Laguna, Tenerife 2019-2022 (ULL)
+Currently doing a Master Degree in Bioinformatics Valencia International University (VIU)
 ```
