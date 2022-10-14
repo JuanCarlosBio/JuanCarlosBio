@@ -1,6 +1,6 @@
-# **BIOLOGIST** :microscope: :pill: :mouse2: :hibiscus:
+# **BIOLOGIST** :microscope: :petri_dish: :pill: :test_tube: :mouse2: :hibiscus: 
 
-* ## **BIOINFORMATICS STUDENT** :computer: :bar_chart:
+* ## **BIOINFORMATICS STUDENT** :computer: :bar_chart: :dna:
 
 * ## **CANARY ISLANDS** :desert_island:
 
