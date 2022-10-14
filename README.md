@@ -1,8 +1,8 @@
-## **BIOLOGIST** :microscope: :pill: :mouse2: :hibiscus:
+# **BIOLOGIST** :microscope: :pill: :mouse2: :hibiscus:
 
-## **BIOINFORMATICS STUDENT** :computer: :bar_chart:
+* ## **BIOINFORMATICS STUDENT** :computer: :bar_chart:
 
-## **CANARY ISLANDS** :desert_island:
+* ## **CANARY ISLANDS** :desert_island:
 
 # Input
 ```
