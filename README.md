@@ -1,6 +1,6 @@
-# **BIOLOGIST** :man_scientist: :lab_coat: :microscope: :petri_dish: :test_tube: :mouse2: :hiking_boot: :ant: :hibiscus: :leaves: :mushroom:
+# **BIOLOGIST** :man_scientist: :lab_coat: :microscope: :petri_dish: :test_tube: :mouse2: :hiking_boot: :ant: :hibiscus: :seedling: :mushroom:
 
-* ## **BIOINFORMATICS STUDENT** :man_technologist: :computer: :bar_chart: :dna:
+* ## **BIOINFORMATICS STUDENT** :man_technologist: :computer: :bar_chart: :chart_with_upwards_trend: :dna:
 
 * ## **CANARY ISLANDS** :desert_island:
 
