@@ -1,3 +1,9 @@
+## **Biologist** :microscope: :pill: :mouse2: :hibiscus:
+
+## **Bioinformatic Student** :computer: :bar_chart:
+
+## **Canary Islands** :desert_island:
+
 # Input
 ```
 #!/usr/bin/env bash
@@ -26,8 +32,3 @@ Currently doing a Master Degree in Bioinformatics Valencia International Univers
 
 ---
 
-## **Biologist** :microscope: :pill: :mouse2: :hibiscus:
-
-## **Bioinformatic Student** :computer: :bar_chart:
-
-## Canary Islands :desert_island:
