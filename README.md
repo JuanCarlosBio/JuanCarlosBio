@@ -1,6 +1,6 @@
 ## **Biologist** :microscope: :pill: :mouse2: :hibiscus:
 
-## **Bioinformatic Student** :computer: :bar_chart:
+## **Bioinformatics Student** :computer: :bar_chart:
 
 ## **Canary Islands** :desert_island:
 
