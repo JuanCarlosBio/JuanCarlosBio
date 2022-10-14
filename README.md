@@ -1,4 +1,4 @@
-# **BIOLOGIST** :man_scientist: :microscope: :petri_dish: :pill: :test_tube: :mouse2: :hibiscus: 
+# **BIOLOGIST** :man_scientist: :lab_coat: :microscope: :petri_dish: :test_tube: :mouse2: :hiking_boot: :hibiscus: 
 
 * ## **BIOINFORMATICS STUDENT** :man_technologist: :computer: :bar_chart: :dna:
 
