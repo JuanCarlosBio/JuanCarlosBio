@@ -32,4 +32,3 @@ Currently doing a Master Degree in Bioinformatics Valencian International Univer
 
 ---
 
-• mkdir human_genome_hg38
