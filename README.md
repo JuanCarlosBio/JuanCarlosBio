@@ -32,5 +32,4 @@ Currently doing a Master Degree in Bioinformatics Valencian International Univer
 
 ---
 
-importante, me ha funcionado para usar fastq-dump: sudo apt install sra-toolkit
 
