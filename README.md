@@ -10,7 +10,7 @@
 
 me="Greetings_Degree_Master"
 
-if [ $me == "Greetings_Degree_Master" ]
+if [[ $me == Greetings_Degree_Master ]]
 then
         echo "Hello GitHub world, my name is Juan Carlos, I am from Canary Islands and I like programming and biology"
         echo "Graduate in Biology University of La Laguna, Tenerife 2019-2022 (ULL)"
