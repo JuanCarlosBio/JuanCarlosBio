@@ -10,9 +10,11 @@
 ```
 #!/usr/bin/env bash
 
-me="Greetings_Degree_Master"
+me="JuanCarlos"
+grade="Biology"
+master="Bioinformatics"
 
-if [[ $me == Greetings_Degree_Master ]]
+if [[ $me == JuanCarlos && $grade ==  Biology && $master == Bioinformatics ]]
 then
         echo "Hello GitHub world, my name is Juan Carlos, I am from Canary Islands and I like programming and biology"
         echo "Graduate in Biology University of La Laguna, Tenerife 2019-2022 (ULL)"
@@ -20,6 +22,7 @@ then
 else
         echo "Impossible, perhaps the archives are incomplete"
 fi
+
 ```
 
 # Output
