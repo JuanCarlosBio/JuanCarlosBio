@@ -11,10 +11,10 @@
 #!/usr/bin/env bash
 
 me="JuanCarlos"
-grade="Biology"
+graduate="Biology"
 master="Bioinformatics"
 
-if [[ $me == JuanCarlos && $grade ==  Biology && $master == Bioinformatics ]]
+if [[ $me == JuanCarlos && $graduate ==  Biology && $master == Bioinformatics ]]
 then
         echo "Hello GitHub world, my name is Juan Carlos, I am from Canary Islands and I like programming and biology"
         echo "Graduate in Biology University of La Laguna, Tenerife 2019-2022 (ULL)"
