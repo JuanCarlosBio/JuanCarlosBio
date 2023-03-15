@@ -17,7 +17,7 @@ master="Bioinformatics"
 if [[ $me == JuanCarlos && $graduate ==  Biology && $master == Bioinformatics ]]
 then
         echo "Hello GitHub world, my name is Juan Carlos, I am from Canary Islands and I like programming and biology"
-        echo "Graduate in Biology University of La Laguna, Tenerife 2019-2022 (ULL)"
+        echo "Graduate in Biology of La Laguna University, Tenerife 2019-2022 (ULL)"
         echo "Currently doing a Master Degree in Bioinformatics Valencian International University (VIU)"
 else
         echo "Impossible, perhaps the archives are incomplete"
@@ -31,7 +31,7 @@ fi
 
 ```
 Hello GitHub world, my name is Juan Carlos, I am from Canary Islands and I like programming and biology
-Graduate in Biology University of La Laguna, Tenerife 2019-2022 (ULL)
+Graduate in Biology of La Laguna University, Tenerife 2019-2022 (ULL)
 Currently doing a Master Degree in Bioinformatics Valencian International University (VIU)
 ```
 
