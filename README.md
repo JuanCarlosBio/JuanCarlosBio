@@ -26,7 +26,8 @@ else:
     print(
         """
         Impossible, perhaps the archives are incomplete
-        """)
+        """
+        )
 
 ```
 
