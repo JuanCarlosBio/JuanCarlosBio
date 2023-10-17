@@ -1,6 +1,6 @@
 # **BIOLOGIST** :man_scientist: :lab_coat: :microscope: :petri_dish: :test_tube: :mouse2: :hiking_boot: :ant: :hibiscus: :seedling: :mushroom:
 
-* ## **BIOINFORMATICS STUDENT** :man_technologist: :computer: :bar_chart: :chart_with_upwards_trend: :dna:
+* ## **MASTER DEGREE IN BIOINFORMATICS** :man_technologist: :computer: :bar_chart: :chart_with_upwards_trend: :dna:
 
 ### <p align="center">You Know, I'm something of a scientist myself</p> 
 
@@ -19,7 +19,7 @@ if me == "Juan Carlos" and grade == "Biology" and master == "Bioinformatics":
         """
         Hello GitHub world, my name is Juan Carlos, I am from Canary Islands and I like programming and biology
         Graduate in Biology of La Laguna University, Tenerife 2019-2022 (ULL)
-        Currently doing a Master Degree in Bioinformatics Valencian International University (VIU)    
+        Master Degree in Bioinformatics Valencian, International University (VIU)    
         """
     )
 else:
