@@ -39,7 +39,7 @@ else:
 
         Hello GitHub world, my name is Juan Carlos, I am from Canary Islands and I like programming and biology
         Graduate in Biology of La Laguna University, Tenerife 2019-2022 (ULL)
-        Currently doing a Master Degree in Bioinformatics Valencian International University (VIU)    
+        Master Degree in Bioinformatics Valencian International University (VIU)    
         
 ```
 
