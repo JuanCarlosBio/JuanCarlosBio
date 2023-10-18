@@ -1,6 +1,6 @@
 # **BIOLOGIST** :man_scientist: :lab_coat: :microscope: :petri_dish: :test_tube: :mouse2: :hiking_boot: :ant: :hibiscus: :seedling: :mushroom:
 
-* ## **MASTER DEGREE IN BIOINFORMATICS** :man_technologist: :computer: :bar_chart: :chart_with_upwards_trend: :dna:
+* ## **MASTER's DEGREE IN BIOINFORMATICS** :man_technologist: :computer: :bar_chart: :chart_with_upwards_trend: :dna:
 
 ### <p align="center">You Know, I'm something of a scientist myself</p> 
 
