@@ -19,7 +19,7 @@ if me == "Juan Carlos" and grade == "Biology" and master == "Bioinformatics":
         """
         Hello GitHub world, my name is Juan Carlos, I am from Canary Islands and I like programming and biology
         Graduate in Biology of La Laguna University, Tenerife 2019-2022 (ULL)
-        Master Degree in Bioinformatics, Valencian International University (VIU)    
+        Master's Degree in Bioinformatics, Valencian International University (VIU)    
         """
     )
 else:
@@ -39,7 +39,7 @@ else:
 
         Hello GitHub world, my name is Juan Carlos, I am from Canary Islands and I like programming and biology
         Graduate in Biology of La Laguna University, Tenerife 2019-2022 (ULL)
-        Master Degree in Bioinformatics Valencian International University (VIU)    
+        Master's Degree in Bioinformatics, Valencian International University (VIU)    
         
 ```
 
