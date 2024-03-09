@@ -6,7 +6,7 @@
 
 * ## **CANARY ISLANDS** :desert_island:
 
-* ## Environment Technical Service, Cabildo of Gran Canaria :hiking_boot: :palm_tree: :tent:  :recycle: :evergreen_tree: 
+* ## Environmental Technical Service, Cabildo of Gran Canaria :hiking_boot: :palm_tree: :tent:  :recycle: :evergreen_tree: 
 
 # Input
 ```
@@ -22,7 +22,7 @@ if me == "Juan Carlos" and grade == "Biology" and master == "Bioinformatics":
         Hello GitHub world, my name is Juan Carlos, I am from Canary Islands and I like programming and biology
         Graduate in Biology of La Laguna University, Tenerife 2019-2022 (ULL)
         Master's Degree in Bioinformatics, Valencian International University (VIU)
-        Currently working in the Cabildo of Gran Canaria in the Environment Technical Service.     
+        Currently working in the Cabildo of Gran Canaria in the Environmental Technical Service.     
         """
     )
 else:
