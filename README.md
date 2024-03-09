@@ -1,12 +1,12 @@
-# **BIOLOGIST** :man_scientist: :lab_coat: :microscope: :petri_dish: :test_tube: :mouse2: :hiking_boot: :ant: :hibiscus: :seedling: :mushroom:
+# :lab_coat: **BIOLOGIST** :man_scientist: :microscope: :petri_dish: :test_tube: :mouse2: :hiking_boot: :ant: :hibiscus: :seedling: :mushroom:
 
-* ## **MASTER's DEGREE IN BIOINFORMATICS** :man_technologist: :computer: :bar_chart: :chart_with_upwards_trend: :dna:
+* ## :man_technologist: **MASTER's DEGREE IN BIOINFORMATICS** :computer: :bar_chart: :chart_with_upwards_trend: :dna:
 
 ### <p align="center">You Know, I'm something of a scientist myself</p> 
 
 * ## **CANARY ISLANDS** :desert_island:
 
-* ## Environment Technical Service, Cabildo of Gran Canaria
+* ## Environment Technical Service, Cabildo of Gran Canaria :palm_tree: :tent:  :evergreen_tree:
 
 # Input
 ```
