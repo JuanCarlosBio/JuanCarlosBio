@@ -6,7 +6,7 @@
 
 * ## **CANARY ISLANDS** :desert_island:
 
-* ## Environment Technical Service, Cabildo of Gran Canaria :hiking_boot: :palm_tree: :tent:  :recycle: :evergreen_tree: :map:  
+* ## Environment Technical Service, Cabildo of Gran Canaria :hiking_boot: :palm_tree: :tent:  :recycle: :evergreen_tree: 
 
 # Input
 ```
