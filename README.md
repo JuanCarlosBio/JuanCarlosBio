@@ -1,4 +1,4 @@
-# :lab_coat: **BIOLOGIST** :man_scientist: :microscope: :petri_dish: :test_tube: :mouse2: :hiking_boot: :ant: :hibiscus: :seedling: :mushroom:
+# :man_scientist: **BIOLOGIST** :man_scientist: :lab_coat: :microscope: :petri_dish: :test_tube: :mouse2: :hiking_boot: :ant: :hibiscus: :seedling: :mushroom:
 
 * ## :man_technologist: **MASTER's DEGREE IN BIOINFORMATICS** :computer: :bar_chart: :chart_with_upwards_trend: :dna:
 
