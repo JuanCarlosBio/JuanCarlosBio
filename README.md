@@ -1,52 +1,27 @@
-# :man_scientist: **BIOLOGIST** :lab_coat: :microscope: :petri_dish: :test_tube: :mouse2: :hiking_boot: :ant: :hibiscus: :seedling: :mushroom:
+<h1 align="center">Hi 👋, I'm Juan Carlos</h1>
+<h3 align="center">I am a Biologist 👨‍🔬🥼🥾 specialized in Bioinformatics 👨‍💻🧬📈</h3>
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-* ## :man_technologist: **MASTER's DEGREE IN BIOINFORMATICS** :computer: :bar_chart: :chart_with_upwards_trend: :dna:
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### <p align="center">You Know, I'm something of a scientist myself</p> 
+- 👨‍💼 I’m currently working on **Cabildo of Gran Canaria's Environmental Technical Service**
 
-* ## **CANARY ISLANDS** :desert_island:
+- 🌱 I’m currently learning **Web Development, Data Analysis, Data Science and more as a Biologists!**
 
-* ## Environmental Technical Service, Cabildo of Gran Canaria :hiking_boot: :palm_tree: :tent:  :recycle: :evergreen_tree: 
+- 👨‍💻 All of my projects are available at my [Portfolio](https://juancarlosbio.github.io/juancarlos_portfolio_esp/)
 
-# Input
-```
-#!/usr/bin/env python
+- 💬 Ask me about **R, Python, Biology, Bioinformatics...**
 
-me = "Juan Carlos"
-grade = "Biology"
-master = "Bioinformatics"
+- 📫 How to reach me **jcge97@gmail.com**
 
-if me == "Juan Carlos" and grade == "Biology" and master == "Bioinformatics":
-    print(
-        """
-        Hello GitHub world, my name is Juan Carlos, I am from Canary Islands and I like programming and biology
-        Graduate in Biology of La Laguna University, Tenerife 2019-2022 (ULL)
-        Master's Degree in Bioinformatics, Valencian International University (VIU)
-        Currently working at the Cabildo of Gran Canaria, in the Environmental Technical Service.     
-        """
-    )
-else:
-    print(
-        """
-        Impossible, perhaps the archives are incomplete
-        """
-        )
+- ⚡ Fun fact **I love running 🏃 and hiking 🥾**
 
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jcgarc%C3%ADaestupi%C3%B1%C3%A1n?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B737Z6ykiRTiRqmPj4zUk7A%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+</p>
 
-# Output
+<h3 align="left">Some Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://dlab.berkeley.edu/sites/default/files/styles/openberkeley_brand_widgets_rectangle/public/bash.png?itok=OXn82XHK&timestamp=1632296342" alt="bash" width="60" height="40"/> </a>  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 
----
-
-```
-
-        Hello GitHub world, my name is Juan Carlos, I am from Canary Islands and I like programming and biology
-        Graduate in Biology of La Laguna University, Tenerife 2019-2022 (ULL)
-        Master's Degree in Bioinformatics, Valencian International University (VIU)
-        Currently working in the Cabildo of Gran Canaria in the Environment Technical Service.   
-        
-```
-
----
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juancarlosbio&show_icons=true&locale=en&layout=compact&hide=html,c" alt="juancarlosbio" /></p>
