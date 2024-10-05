@@ -29,8 +29,11 @@
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </a><a href="https://snakemake.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://snakemake.readthedocs.io/en/stable/_static/logo-snake.svg" alt="snakemake" width="40" height="40"/> </a>
-</a><a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="html" width="40" height="40"/> </a> <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/img/logosign.svg" alt="qgis" width="40" height="40"/> </a>
-</a>
+</a><a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="html" width="40" height="40"/> </a> <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/img/logosign.svg" alt="qgis" width="40" height="40"/> </a></a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://www.comparasoftware.com/media/1714" alt="vim" width="40" height="40"/> </a></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a></a>
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCxoHJUlcAM9i73tlTYAp7ipQQLetTV2C1IA&s" alt="rstudio" width="40" height="40"/> </a></a>
+
 </p> 
 
 <h3 align="left">Languages and Tools I've used and I'd like to explore further:</h3>
@@ -41,10 +44,11 @@
 
 </p> 
 
-<h3 align="left">Tools I've never used but I'd like to learn</h3>
+<h3 align="left">Languages and Tools I've never used but I'd like to learn</h3>
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25oYJlp2wL_GAT2FOKBaOlCt1fbn56-hXDg&s" alt="css" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="linux" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25oYJlp2wL_GAT2FOKBaOlCt1fbn56-hXDg&s" alt="c" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://pontia.tech/wp-content/uploads/2023/06/Imagen1.png" alt="sql" width="40" height="40"/> </a>
 
 </p> 
 
