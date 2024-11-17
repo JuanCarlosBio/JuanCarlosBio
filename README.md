@@ -37,7 +37,7 @@
 <p align="left">
 <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="linux" width="40" height="40"/> </a> 
-<a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="50" height="40"/> </a>
+<a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://julialang.org/assets/infra/logo.svg" alt="julia" width="50" height="40"/> </a><a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://jekyllrb.com/img/octojekyll.png" alt="jekyll" width="50" height="40"/> </a> 
 
 </p> 
 
@@ -45,7 +45,7 @@
 <p align="left">
 <a href="" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25oYJlp2wL_GAT2FOKBaOlCt1fbn56-hXDg&s" alt="css" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="linux" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://pontia.tech/wp-content/uploads/2023/06/Imagen1.png" alt="sql" width="40" height="40"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://pontia.tech/wp-content/uploads/2023/06/Imagen1.png" alt="sql" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://ausum.cloud/wp-content/uploads/2024/09/docker.png" alt="docker" width="40" height="40"/> </a> 
 
 
 </p> 
