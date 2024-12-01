@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💼 I’m currently working on **Cabildo of Gran Canaria's Environmental Technical Service**
+- 👨‍💼 I’m currently working on **Environmental Technical Service of the Gran Canaria Island Council**
 
 - 🌱 I’m currently learning **Web Development, Data Analysis, Data Science and more as a Biologist!**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://juancarlosbio.github.io/juancarlos_portfolio_esp/)
+- 👨‍💻 Some of my most notable projects are available at my [Portfolio](https://juancarlosbio.github.io/juancarlos_portfolio_esp/)
 
-- 💬 Ask me about **R, Python, Biology, Bioinformatics...**
+- 💬 Ask me about **R, Python, Biology, Bioinformatics and more**
 
 - 📫 How to reach me **jcge97@gmail.com**
 
