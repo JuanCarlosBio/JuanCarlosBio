@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💼 I’m currently working on **Environmental Technical Service of the Gran Canaria Island Council**
+- 👨‍💼 I’m currently working on **Loro Parque** as a ***Conservation Officer***
 
 - 🌱 I’m currently learning **Web Development, Data Analysis, Data Science and more as a Biologist!**
 
