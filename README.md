@@ -42,14 +42,18 @@
 
 ## List of some of my projects that I feel proud of:
 
-* [Website of Species of the island of Gran Canaria observed 🐜🌱]()
-* [Species inventory from the Natural Protected Areas in Gran Canaria 📋]()
-* [Grids for searching for species 🌷🐜🔍]()
-* [Drought study in the Canary Islands (NOAA stations) ☀️ ☁️ ☔]()
-* [Meteorological Dashboard of the Canary Islands using GRAPHCAN data (Canary Gogovernment)]()
-* [Master's Thesis in Bioinformatics (VIU) 🧬 👨‍💻 📈]()
+* [Website of Species of the island of Gran Canaria observed 🐜🌱](https://github.com/JuanCarlosBio/BiodiversidadGJC)
+    * [*Link of the website*](https://juancarlosbio.github.io/BiodiversidadGJC/)
+* [Species inventory from the Natural Protected Areas in Gran Canaria 📋](https://juancarlosbio.github.io/inventario_especies_enp/)
+    * [*Link of the website*](https://github.com/JuanCarlosBio/inventario_especies_enp)
+* [Grids for searching for species 🌷🐜🔍](https://github.com/JuanCarlosBio/Cuadriculas_Especies)
+* [Drought study in the Canary Islands (NOAA stations) ☀️ ☁️ ☔](https://github.com/JuanCarlosBio/tiempo_canarias_noaa)
+    * [*Link of the website*](https://juancarlosbio.github.io/tiempo_canarias_noaa/)
+* [Meteorological Dashboard of the Canary Islands using GRAPHCAN data (Canary Gogovernment)](https://github.com/JuanCarlosBio/meteorologia_canarias)
+    * [*Link of the website*](https://juancarlosbio.github.io/meteorologia_canarias/) 
+* [Master's Thesis in Bioinformatics (VIU) 🧬 👨‍💻 📈](https://github.com/JuanCarlosBio/TFM)
     * Title: *Development of a pipeline for automated and reproducible WES analysis using Snakemake*
-* [Degree's Thesis in Biology (ULL) 📈🐢]()
+* [Degree's Thesis in Biology (ULL) 📈🐢](https://github.com/JuanCarlosBio/Tortugas_La_Tahonilla)
     * Title: *Statistical analysis of stranded sea turtles in Tenerife, Canary Islands* 
 
 
