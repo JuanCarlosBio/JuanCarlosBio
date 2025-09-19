@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💼 I’m currently working on **Loro Parque** as a ***Conservation Officer***
+- 👨‍💼 I’m currently working on **Loro Parque Fundación** as a ***Conservation Officer***
 
 - 🌱 I’m currently learning **Web Development, Data Analysis, Data Science and more as a Biologist!**
 
@@ -38,6 +38,20 @@
   
 </p> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juancarlosbio&show_icons=true&locale=en&layout=compact&hide=html,c" alt="juancarlosbio" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juancarlosbio&show_icons=true&locale=en&layout=compact&hide=html,c" alt="juancarlosbio" /></p><br><br><br><br><br><br><br> 
+
+## List of some of my projects that I feel proud of:
+
+* [Website of Species of the island of Gran Canaria observed 🐜🌱]()
+* [Species inventory from the Natural Protected Areas in Gran Canaria 📋]()
+* [Grids for searching for species 🌷🐜🔍]()
+* [Drought study in the Canary Islands (NOAA stations) ☀️ ☁️ ☔]()
+* [Meteorological Dashboard of the Canary Islands using GRAPHCAN data (Canary Gogovernment)]()
+* [Master's Thesis in Bioinformatics (VIU) 🧬 👨‍💻 📈]()
+    * Title: *Development of a pipeline for automated and reproducible WES analysis using Snakemake*
+* [Degree's Thesis in Biology (ULL) 📈🐢]()
+    * Title: *Statistical analysis of stranded sea turtles in Tenerife, Canary Islands* 
+
+
 
 
